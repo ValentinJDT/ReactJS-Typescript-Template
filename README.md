@@ -4,7 +4,7 @@
 
 Command `npm run start` or `npm run dev`
 
-## Change path
+## Change default path
 
 Edit `homepage` in package.json.<br />
 Edit browser router `basename` in App.ts.<br />
