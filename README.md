@@ -1,6 +1,6 @@
 # ReactJS Typescript Template
 
-## Local start 
+## Local start
 
 Command `npm run start` or `npm run dev`
 
