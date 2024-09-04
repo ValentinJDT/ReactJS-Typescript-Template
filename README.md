@@ -6,7 +6,16 @@ Command `npm run start` or `npm run dev`
 
 ## Change path
 
-Edit `homepage` in package.json.
-Edit browser router `basename` in App.ts.
-Edit `try_files` path in nginx.conf.
-Edit `/usr/share/nginx/html/<frontend>` in Dockerfile
+Edit `homepage` in package.json.<br />
+Edit browser router `basename` in App.ts.<br />
+Edit `try_files` path in nginx.conf.<br />
+Edit `/usr/share/nginx/html/<frontend>` in Dockerfile.<br />
+
+## Build prod
+
+Command `npm run build:prod`
+
+## Docker image
+
+Create image : `npm run build:docker`<br />
+Push image : `npm run publish:docker`
